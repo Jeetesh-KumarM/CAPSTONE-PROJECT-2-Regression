@@ -1,2 +1,2 @@
-# Capstone-Project-2--Regression
+# Capstone-Project-2-Regression
 Retail Sales Prediction
